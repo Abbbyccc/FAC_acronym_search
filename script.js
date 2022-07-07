@@ -1,4 +1,3 @@
-
 import data from "./data.js"
 
 const sumbmit_btn = document.getElementById('search_button')
