@@ -19,8 +19,13 @@
             <input id="acronym_input" list="dropdown" type="text" placeholder="enter acronym eg.AGO">
             <datalist class="data_style" id="dropdown"></datalist>
             <button id="search_button">Search</button>
+
         </form>
-        <p id="fullName"></p>
+        <div class="result_container">
+            <p id="error_msg"></p>
+            <ul id="fullName"></ul>
+        </div>
+
     </div>
     <script type="module" src="./script.js"></script>
 </body>
