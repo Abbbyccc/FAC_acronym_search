@@ -2,7 +2,7 @@
 
 ### a UK Government acronym search
 -allows users to search for an acronym, and will return the matching organisation for that acronym, if one exists. <br>
-[Website Here](https://github.com/Abbbyccc/FAC_dxw_challenge)
+[Website Here](abbbyccc.github.io/fac_dxw_challenge/)
 
 ☑️ When the user first loads the application, they are presented with a free text search
 box <br>
