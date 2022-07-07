@@ -40,7 +40,7 @@ const data = [
         fullName: "Department for Environment, Food and Rural Affairs"
     },
     {
-        acronym: "DE&amp;S",
+        acronym: "DE\&S",
         fullName: "Defence Equipment and Support (part of MoD)"
     },
     {
@@ -164,7 +164,7 @@ const data = [
         fullName: "Northern Ireland Office"
     },
     {
-        acronym: "NS&amp;I",
+        acronym: "NS\&I",
         fullName: "National Savings and Investments"
     },
     {
