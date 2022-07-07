@@ -12,9 +12,11 @@
 <body>
     <h1>UK Government acronym search</h1>
     <form action="">
-        <input id="acronym_input" type="text" placeholder="please enter first charactors">
+        <input id="acronym_input" list="dropdown" type="text" placeholder="please enter first charactors">
+        <datalist class="data_style" id="dropdown"></datalist>
         <button id="search_button">Search</button>
     </form>
+    <p id="fullName"></p>
     <script type="module" src="./script.js"></script>
 </body>
 
